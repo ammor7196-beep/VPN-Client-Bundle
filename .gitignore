@@ -1,0 +1,8 @@
+build-out/
+Build/
+*.log
+xray.log
+xray-err.log
+config.json
+settings.json
+*.keystore
